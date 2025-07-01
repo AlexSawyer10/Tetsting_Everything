@@ -12,6 +12,7 @@ class Program
     public void Develop()
     {
         Console.WriteLine("Develop branch and commit");
+        Console.WriteLine("hotfix commit");
     }
     
     
