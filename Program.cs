@@ -8,4 +8,9 @@ class Program
                           " random commits and I'm going to see what happens");
         
     }
+
+    public void Develop()
+    {
+        Console.WriteLine("Develop branch and commit");
+    }
 }
